@@ -1,0 +1,13 @@
+/* Write your CSS code here */
+
+.container {
+  height: 100vh;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  cursor: pointer;
+  padding: 20px;
+}
